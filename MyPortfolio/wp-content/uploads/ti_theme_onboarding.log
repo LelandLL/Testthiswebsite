@@ -1,0 +1,14 @@
+[14/Jun/2020:20:56:11] (ℹ️): WordPress Instance Info:
+[14/Jun/2020:20:56:11] (ℹ️): Home URL : http://localhost/MyPortfolio
+[14/Jun/2020:20:56:11] (ℹ️): Site URL : http://localhost/MyPortfolio
+[14/Jun/2020:20:56:11] (ℹ️): WordPress Version : 5.4.2
+[14/Jun/2020:20:56:11] (ℹ️): Onboarding Version : 1.8.2
+[14/Jun/2020:20:56:11] (ℹ️): Multisite : No
+[14/Jun/2020:20:56:11] (ℹ️): Server Info : Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.6
+[14/Jun/2020:20:56:11] (ℹ️): PHP Version : 7.4.6
+[14/Jun/2020:20:56:11] (ℹ️): HTTPS : No
+[14/Jun/2020:20:56:11] (ℹ️): PHP Max Execution Time : 120
+[14/Jun/2020:20:56:11] (ℹ️): PHP Max Input Vars : 1000
+[14/Jun/2020:20:56:11] (ℹ️): Max Upload Size : 41943040
+[14/Jun/2020:20:56:11] (ℹ️): Plugins:
+[14/Jun/2020:20:56:11] (ℹ️): [PLUGIN] Akismet Anti-Spam : v4.1.6 (Automattic)
